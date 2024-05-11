@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4a41fcc727932d4a95ac44738ffd21c, type: 3}
+  m_Name: D2
+  m_EditorClassIdentifier: 
+  leftOption: {fileID: 11400000, guid: 361b45d2714267c4bb0f151562b88294, type: 2}
+  rightOption: {fileID: 11400000, guid: 7d5b4606e5c0ef04b95b346dea8f83c9, type: 2}
+  leftOptionText: My blessings to that marriage! Fortune and prosperity awaits to
+    those loving souls.
+  rightOptionText: This is not but a distraction the spirits say. Let them be guided
+    by the spirits to focus on their work.
+  altLeftOptionText: 
+  altRightOptionText: 
+  dreamText: The plants in the window were watered today It is strange, I do not
+    remember watering them...
+  leftOptionValue: 0
+  rightOptionValue: 0
+  picture: {fileID: 21300000, guid: 96389fbcc7a3d214daf61c472047f4e2, type: 3}
+  altPicture: {fileID: 0}
+  master: 2
+  slave: 1
+  seal: {fileID: 21300000, guid: 190acbe997b20054db6122120f28c67b, type: 3}
